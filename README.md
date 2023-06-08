@@ -1,4 +1,4 @@
-![logo](https://github.com/PRIYANSHUSINGH2003/PRIYANSHUSINGH2003/blob/main/Screenshot%202023-06-08%20201157.png)
+![logo](https://github.com/PRIYANSHUSINGH2003/PRIYANSHUSINGH2003/blob/main/get.png)
 <h1 align="center">Hi 👋, I'm Priyanshu Singh</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
