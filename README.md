@@ -6,8 +6,12 @@
 
 <p align="left"> <a href="https://twitter.com/hacker127112593" target="blank"><img src="https://img.shields.io/twitter/follow/hacker127112593?logo=twitter&style=for-the-badge" alt="hacker127112593" /></a> </p>
 
-- 🔭 I’m currently Studying Computer Science [~AnalysisMaster](https://data-progress-report.streamlit.app/)
-
+- 🔭 I’m currently Studying Computer Science 
+- My Project are [~AnalysisMaster](https://data-progress-report.streamlit.app/)
+                 [Weather App](https://weather-detail-api-app.netlify.app)
+                 [Hacker Chat App](https://chatapp-lctw.onrender.com/)
+                 [Coffee Website](https://coffeeshopwebsitedemo.netlify.app/)
+                 [Resume Gerenator](https://cv-and-resume-generator.netlify.app/)
 - 🌱 I’m currently learning **Java Programing, Software Engineering, Network Security**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-website-0.netlify.app/](https://my-portfolio-website-0.netlify.app/)
