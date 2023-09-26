@@ -1,4 +1,4 @@
-![image](https://github.com/PRIYANSHUSINGH2003/PRIYANSHUSINGH2003/assets/102310770/696f5541-e3b1-44a9-a493-1795d08ba43c)
+![logo](https://github.com/PRIYANSHUSINGH2003/PRIYANSHUSINGH2003/blob/main/Priyanshu%20Singh.jpg)
 
 <h1 align="center">Hi 👋, I'm Priyanshu Singh</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
