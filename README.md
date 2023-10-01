@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **priyanshusingh00004@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/11WrC4ppr3xc5UR92tr15pqhgD1gTqLKM/edit?usp=drive_link&ouid=104491465904036856215&rtpof=true&sd=true](https://docs.google.com/document/d/11WrC4ppr3xc5UR92tr15pqhgD1gTqLKM/edit?usp=drive_link&ouid=104491465904036856215&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/13T1suCL8hoPA40v6Eqy8sEhoO1rFqa7p9Yf-DMBqI_w/edit?usp=drive_web&ouid=104491465904036856215)
 
 - ⚡ Fun fact **I am funny😂**
 
