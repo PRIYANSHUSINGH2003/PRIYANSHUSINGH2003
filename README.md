@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Singh</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshusingh2003&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshusingh2003" style="border-redius:'50%'"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshusingh2003&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshusingh2003" style="border-radius:'50%'"/> </p>
 
 <p align="left"> <a href="https://twitter.com/hacker127112593" target="blank"><img src="https://img.shields.io/twitter/follow/hacker127112593?logo=twitter&style=for-the-badge" alt="hacker127112593" /></a> </p>
 
