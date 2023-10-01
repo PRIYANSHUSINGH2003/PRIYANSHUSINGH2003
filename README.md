@@ -15,7 +15,7 @@
                  5). [Resume Gerenator](https://cv-and-resume-generator.netlify.app/)
 - 🌱 I’m currently learning **Java Programing, Software Engineering, Network Security**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-website-0.netlify.app/](https://my-portfolio-website-0.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://my-portfolio-website-0.netlify.app/)
 
 - 💬 Ask me about **My name is Priyanshu Singh Currently I am graduating Bachelors of Computer Applications (Computer Science) from Guru Gobind Singh Indraprastha University (GGSIPU) Dwarka, New Delhi. I’m interested in Software Development and machine learning with AI. and I’m currently learning Java, Python with their Advanced concepts.**
 
