@@ -22,6 +22,7 @@
 - **Java**, **Python**, **Machine Learning**, **Software Engineering**  
 - Advanced Concepts in **AI**, **Network Security**, and **Software Architecture**.
 
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://priyanshusinghportfolio.onrender.com/)
 - 👨‍💻 All of my projects are available at [Portfolio Website](https://my-portfolio-website-0.netlify.app/)
 
 ---
