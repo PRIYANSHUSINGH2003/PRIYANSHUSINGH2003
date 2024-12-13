@@ -7,17 +7,34 @@
 
 <p align="left"> <a href="https://twitter.com/hacker127112593" target="blank"><img src="https://img.shields.io/twitter/follow/hacker127112593?logo=twitter&style=for-the-badge" alt="hacker127112593" /></a> </p>
 
-- 🔭 I’m currently Studying Computer Science 
-- My Project are 1). [~AnalysisMaster](https://data-progress-report.streamlit.app/)
-                 2). [Weather App](https://weather-detail-api-app.netlify.app)
-                 3). [Hacker Chat App](https://chatapp-lctw.onrender.com/)
-                 4). [Coffee Website](https://coffeeshopwebsitedemo.netlify.app/)
-                 5). [Resume Gerenator](https://cv-and-resume-generator.netlify.app/)
-- 🌱 I’m currently learning **Java Programing, Software Engineering, Network Security**
+- 🔭 I’m currently Fresher.
+---
+
+### 🔭 My Projects:
+1. [**AnalysisMaster**](https://data-progress-report.streamlit.app/) - Data Analysis & Reporting Tool
+2. [**Weather App**](https://weather-detail-api-app.netlify.app) - Real-time Weather Information
+3. [**Hacker Chat App**](https://chatapp-lctw.onrender.com/) - Real-time Chat Application
+4. [**Coffee Website**](https://coffeeshopwebsitedemo.netlify.app/) - Coffee Shop Online Presence
+5. [**Resume Generator**](https://cv-and-resume-generator.netlify.app/) - Automated Resume Generation Tool
+
+---
+### 🌱 I'm currently learning:
+- **Java**, **Python**, **Machine Learning**, **Software Engineering**  
+- Advanced Concepts in **AI**, **Network Security**, and **Software Architecture**.
 
 - 👨‍💻 All of my projects are available at [Portfolio Website](https://my-portfolio-website-0.netlify.app/)
 
-- 💬 Ask me about **My name is Priyanshu Singh Currently I am graduating Bachelors of Computer Applications (Computer Science) from Guru Gobind Singh Indraprastha University (GGSIPU) Dwarka, New Delhi. I’m interested in Software Development and machine learning with AI. and I’m currently learning Java, Python with their Advanced concepts.**
+---
+
+### 👨‍💻 About Me
+- 🎓 **Bachelors of Computer Applications (Computer Science)** from **Guru Gobind Singh Indraprastha University (GGSIPU), Dwarka, New Delhi**
+- 🌱 Currently learning **Java Programming, Software Engineering, Network Security**
+- 💻 Interested in **Software Development, Machine Learning, and AI**
+- 💬 Ask me about **my journey in Software Development, Programming Languages, and Machine Learning**
+- 📫 Reach me at **priyanshusingh00004@gmail.com**
+- 📄 [Check out my Resume](https://docs.google.com/document/d/13T1suCL8hoPA40v6Eqy8sEhoO1rFqa7p9Yf-DMBqI_w/edit?usp=drive_web&ouid=104491465904036856215)
+
+---
 
 - 📫 How to reach me **priyanshusingh00004@gmail.com**
 
