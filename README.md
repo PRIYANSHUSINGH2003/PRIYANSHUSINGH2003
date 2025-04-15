@@ -34,8 +34,6 @@
 - 🌱 Currently learning **Java Programming, Software Engineering, Network Security**
 - 💻 Interested in **Software Development, Machine Learning, and AI**
 - 💬 Ask me about **my journey in Software Development, Programming Languages, and Machine Learning**
-- 📫 Reach me at **priyanshusingh00004@gmail.com**
-- 📄 [Check out my Resume](https://docs.google.com/document/d/13T1suCL8hoPA40v6Eqy8sEhoO1rFqa7p9Yf-DMBqI_w/edit?usp=drive_web&ouid=104491465904036856215)
 - 📫 How to reach me **priyanshusingh00004@gmail.com**
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/13T1suCL8hoPA40v6Eqy8sEhoO1rFqa7p9Yf-DMBqI_w/edit?usp=drive_web&ouid=104491465904036856215)
 - ⚡ Fun fact **I am funny😂**
@@ -73,8 +71,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshusingh2003&theme=radical" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusingh2003&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
-
----
-
-### ⚡ Fun Fact:
-**I am funny 😂**
