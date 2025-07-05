@@ -72,3 +72,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusingh2003&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0AFFEF&height=120&section=footer"/>
+</p>
+
