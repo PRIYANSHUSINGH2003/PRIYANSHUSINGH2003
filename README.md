@@ -53,7 +53,7 @@
   <a href="https://fb.com/priyanshusingh.rajawat.37"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
   <a href="https://instagram.com/___priyanshusinghrajawat___/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
   <a href="https://www.youtube.com/c/@technicalworld9464"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/@priyanshusingh07"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/priyanshusingh07"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/></a>
 </p>
 
 ---
